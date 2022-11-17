@@ -1,5 +1,5 @@
 - This is @Ji-Muze
-- A normal CS student
+- A normal IS student
 - School learning
 
 <!---
